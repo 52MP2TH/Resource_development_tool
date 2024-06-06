@@ -1,0 +1,17 @@
+.hire-titles{
+    text-align: center;
+    font-size: larger;
+    font-weight: 600;
+    color: rgb(255, 0, 0);
+}
+
+.hire-resourses-cards{
+    display: flex;
+    justify-content: space-around;
+}
+
+.hire-jobs-cards{
+    display: flex;
+    justify-content: center;
+    column-gap: 5vw;
+}

@@ -1,0 +1,20 @@
+.hiring-header{
+    display: flex;
+    background-color: #2565ae;
+    color: white;
+    align-items: center;
+    padding: 0.5vw 0vw;
+}
+
+.hire-header-start{
+    margin-left: 2vw;
+    font-size: larger;
+}
+
+.hiring-header >.end{
+    margin-left: auto;
+}
+
+.hire-header-button{
+    padding: 0vw 1vw;
+}

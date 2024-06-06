@@ -1,0 +1,32 @@
+.header-title{
+    display: flex;
+    position: relative;
+    background-color: #0f5298;
+    color: white;
+    box-shadow: 0 2px 5px 1px rgb(180, 177, 177);
+    align-items: center;
+}
+
+.header-title > .end{
+    margin-left: auto;
+}
+
+.header-title-start{
+    font-weight: bolder;
+    font-size: larger;
+}
+
+.header-title:first-child{
+    padding-left: 2vw;
+}
+
+.header-title_button{
+    font-weight: 500;
+    padding-left: 1vw;
+    padding-right: 1vw; 
+}
+
+.link-button{
+    text-decoration: none;
+    color: white;
+}

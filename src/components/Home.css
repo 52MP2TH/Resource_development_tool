@@ -1,0 +1,27 @@
+.header-subtitle{
+    background-color: #2565ae;
+    text-align: center;
+    color: white;
+    padding: 15vh 0;
+}
+
+.header-subtitle > .main-heading{
+    font-weight: 350;
+    font-size: 10vh;
+    margin: 0;
+}
+
+.header-subtitle > .sub-heading{
+    font-weight: 300;
+    font-size: 4vh;
+}
+
+.resourse-cards{
+    display: flex;
+    position: absolute;
+    justify-content: space-around;
+    z-index: 2;
+    margin-top: 5vh;
+    color: black;
+    width: 100%;
+}

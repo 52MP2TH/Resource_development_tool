@@ -1,0 +1,20 @@
+.release-header{
+    display: flex;
+    background-color: #2565ae;
+    color: white;
+    align-items: center;
+    padding: 0.5vw 0vw;
+}
+
+.release-header-start{
+    margin-left: 2vw;
+    font-size: larger;
+}
+
+.release-header > .end{
+    margin-left: auto;
+}
+
+.release-header-button{
+    padding: 0vw 2vh;
+}
